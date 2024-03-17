@@ -5,4 +5,4 @@
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/marcogoedert)
   - [X/Twitter](https://twitter.com/Marco_Goedert)
-  - [E-mail](mailto:hello@marcogoedert.com)
+  - [hello@marcogoedert.com](mailto:hello@marcogoedert.com)
