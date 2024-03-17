@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖖
 
 - 🧉 I'm Marco Goedert, a software engineer from Porto Alegre, Brazil.
 - 💬 Ask me about anything
